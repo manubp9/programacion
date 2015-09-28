@@ -1,3 +1,7 @@
 hola
 esta es la segunda linea 
-adios  
+adios 
+
+creando 3 lineas
+para subir commit
+a git hub
